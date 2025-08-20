@@ -1,9 +1,5 @@
 # Student EDA based on Fandango movie ratings
-**EDA goal**: to perform an analysis inspired by the article [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) and compare the results with the conclusions presented in the article. Achieving this goal required the following **skills**:
-- proficiency in working with using the ***pandas***;
-- ability to visualize data using ***matplotlib*** and ***seaborn***;
-- knowledge of statistical hypothesis testing;
-- ability to correctly interpret the results.
+**EDA goal**: to perform an analysis inspired by the article [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) and compare the results with the conclusions presented in the article 
 
 ## Project structure
 ```
@@ -11,9 +7,7 @@ fandango-ratings-eda/
 ├── data/                               # All data, used in the project
 │   ├── fandango_score_comparison.csv
 │   └── fandango_scrape.csv
-├── notebook.ipynb                      # Jupyter notebook with all EDA
-├── requirements.txt
-└── README.md                           # You are here
+└──  notebook.ipynb                     # Jupyter notebook with all the EDA
 ```
 
 ## EDA structure
